@@ -115,7 +115,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: var(--green) !important;
+			color: #006399 !important;
 		}
 
 	strong, b {
@@ -1783,7 +1783,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: var(--green);
+		color: #006399;
 		font-size: 3.5em;
 	}
 
@@ -1951,7 +1951,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: var(--green);
+			border-color: #006399;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2426,7 +2426,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: var(--green);
+				background: #006399;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2642,7 +2642,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: var(--green);
+			background-color: #006399;
 			color: #ffffff !important;
 		}
 
@@ -2650,7 +2650,7 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #5ed0b1;
+				background-color: #006399;
 			}
 
 			input[type="submit"].primary:active,
@@ -2724,7 +2724,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: var(--green);
+		background: #006399;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2813,7 +2813,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px var(--green);
+					border-top: solid 2px #006399;
 					display: block;
 					padding: 0;
 				}
@@ -2832,7 +2832,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: var(--green) !important;
+							color: #006399 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3100,7 +3100,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: var(--green);
+						background: #006399;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
